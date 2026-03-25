@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ajaya Kumar Pradhan 👋
 
-<!--
-**ajayakumarpradhan/ajayakumarpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Engineer focused on building real-world ML systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Build end-to-end Machine Learning models  
+- Work on NLP, Recommendation Systems, and Classification problems  
+- Deploy ML models using FastAPI & Streamlit  
+
+---
+
+## 🧠 Tech Stack
+- Python (Pandas, NumPy, Scikit-learn, XGBoost)  
+- Machine Learning (Classification, NLP, Clustering)  
+- Deployment (FastAPI, Streamlit)  
+- SQL  
+
+---
+
+## 📌 Featured Projects
+- 🔹 Customer Churn Prediction ML System *(In Progress)*  
+- 🔹 Airline Recommendation Prediction System  
+- 🔹 Book Recommendation System  
+
+---
+
+## 📊 Currently Working On
+- Building production-level ML systems  
+- Improving model performance & deployment skills  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link here)  
+- GitHub: https://github.com/ajayakumarpradhan  
+
+---
+
+⭐ *Focused on solving real-world problems using Machine Learning*
